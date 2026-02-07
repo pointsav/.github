@@ -1,7 +1,7 @@
 # PointSav Digital Systems AG
 
 ### The 2030 Standard | El Estándar 2030
-**Berlin** · **New York** · **Vancouver**
+**Vancouver** · **New York** · **Berlin**
 
 > **Business Administration, Record Keeping, and Cyber-physical Systems.**
 > *Administración Comercial, Mantenimiento de Registros y Sistemas Ciberfísicos.*

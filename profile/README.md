@@ -1,38 +1,36 @@
 # PointSav Digital Systems AG
-### High-Fidelity Infrastructure & Sovereign Governance
+### Sovereign Computing Infrastructure & High-Fidelity Logic
 
-PointSav Digital Systems AG is a specialized engineering house dedicated to the **Industrialization of Trust**. We develop hardened computing environments for institutional record-keeping, deterministic financial administration, and cyberphysical asset management. 
-
-Our mission is to decouple critical infrastructure from the vulnerabilities of the public SaaS model, replacing "Agile Drift" with **Sovereign Stability**.
+PointSav Digital Systems AG is a Swiss-headquartered technology firm specializing in the engineering of **Unidirectional Computing Environments** and **Hardened Administrative Systems**. We provide the technological foundation for sovereign digital governance, institutional administration, and cyberphysical asset management.
 
 ---
 
-## 🏗️ The Totebox® Orchestration Standard: Geometric Security
-PointSav systems are defined by **Geometric Security**—a multi-dimensional defense posture where security is a function of physical boundaries, cryptographic handshakes, and unidirectional logic.
+## 🏗️ The Totebox® Orchestration Standard
+PointSav systems are architected around **Geometric Security**—a multi-dimensional defense posture where security is a function of physical boundaries, cryptographic handshakes, and unidirectional logic.
 
-### **The Foundations of the Specification:**
-* **Asymmetric Communication (The Diode):** Utilizing the **Universal Diode Standard** to enforce a physical impossibility of upstream lateral movement.
-* **Supply Chain Integrity:** Every binary in the ecosystem is a product of the **Triple-Bind Governance**, ensuring code is forged in isolation, signed by root authority, and executed on read-only production planes.
-* **Digital Sovereignty:** Total elimination of third-party telemetry and "Cloud-Dependency" risk. You own the hardware. You own the silicon. You own the logic.
+### **The Three Pillars of Integrity:**
+1. **Digital Sovereignty:** Absolute user-ownership of the compute stack, independent of third-party SaaS dependencies.
+2. **High-Fidelity Engineering:** Rust-native binaries optimized for deterministic performance and 2030-standard hardware.
+3. **Triple-Bind Governance:** Physical and logical segregation of **The Forge** (Dev), **The Shop Floor** (Prod), and **The Vault** (Root Authority).
 
 ---
 
 ## 📂 The Sovereign Ecosystem Hierarchy
-All active development and architectural blueprints are maintained within the **[pointsav-monorepo](https://github.com/pointsav/pointsav-monorepo)**.
+All development is consolidated within the **[pointsav-monorepo](https://github.com/pointsav/pointsav-monorepo)** to maintain a single, audited Source of Truth.
 
 | Tier | Component Group | Strategic Utility |
 | :--- | :--- | :--- |
-| **I. Core Authority** | **Execution & Data** | **Console-OS** (Authority), **Totebox-OS** (Orchestration), and **Workplace-OS** (High-Fidelity Desktop). |
+| **I. Core Authority** | **Governance & Records** | **Console-OS** (Authority), **Totebox-OS** (Immutable Record Keeping), and **Workplace-OS** (Desktop). |
 | **II. Connectivity** | **The UX Bridge** | **Interface-OS**: A secure, zero-trust gateway bridging local compute nodes with cloud-edge accessibility. |
-| **III. Scaling** | **Control Plane** | **Infrastructure-OS** & **Network-Admin-OS**: Cloud-agnostic provisioning and software-defined Diode networking. |
+| **III. Scaling** | **Control Plane** | **Infrastructure-OS** & **Network-Admin-OS**: Multi-cloud provisioning and Diode-standard networking. |
 | **IV. Asset Nodes** | **Persistent Integrity** | **MediaKit-OS** (Institutional Knowledge) and **PrivateGit-OS** (Sovereign Source Control & Design). |
-| **V. Applications** | **Record Keeping** | High-Fidelity tools for PDF/A (ISO standard), Typst Document Processing, and IronCalc Financial Logic. |
-| **VI. Foundation** | **The Engine Room** | Hardware-accelerated GPU Rendering, Diode-Gate Logic, and TPM-bound Hardware Pairing. |
+| **V. Applications** | **Business Admin** | High-Fidelity tools for PDF/A (ISO standard), Typst Document Processing, and IronCalc Spreadsheet Logic. |
+| **VI. Foundation** | **The Engine Room** | Hardware-accelerated GPU Rendering, Diode-Gate Logic (package-link), and TPM-bound Trust (package-pairing). |
 
 ---
 
-## ⚖️ Continuous Authorization (cATO)
-PointSav implements **Compliance-as-Code** via NIST OSCAL. Rather than static audits, our systems provide **Continuous Proof of Security**, generating machine-readable telemetry to meet **DORA (EU)**, **SOC 3**, and **NIST 800-53** standards in real-time.
+## ⚖️ Compliance & Auditability
+PointSav integrates **Compliance-as-Code** via NIST OSCAL. Every component generates real-time, machine-readable audit manifests, ensuring continuous compliance with **DORA (EU)** and **SOC 3 (Global)** standards.
 
 ---
 

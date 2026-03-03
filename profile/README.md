@@ -1,50 +1,38 @@
 <div align="center">
 
 # PointSav Digital Systems AG
-### *Institutional-Grade Sovereign Computing*
+### *Institutional-Grade Sovereign Computing | Computación Soberana de Grado Institucional*
 **Vancouver | New York | Berlin**
 
-[ **Technical Docs** ](https://github.com/pointsav/content-wiki-documentation) | [ **System Monorepo** ](https://github.com/pointsav/pointsav-monorepo) | [ **Design Assets** ](https://github.com/pointsav/pointsav-design-system)
+[ **Technical Docs | Documentación** ](https://github.com/pointsav/content-wiki-documentation) | [ **System Monorepo** ](https://github.com/pointsav/pointsav-monorepo) 
 
 <br/>
 
-### 🚀 **[ VIEW LIVE FLEET DEPLOYMENT (WOODFINE) ](https://github.com/woodfine)** 🚀
-*Review our verified infrastructure operating in a production environment.*
+### 🚀 **[ VIEW LIVE FLEET DEPLOYMENT | VER DESPLIEGUE EN VIVO (WOODFINE) ](https://github.com/woodfine)** 🚀
 
 </div>
 
 ---
 
-> **OPERATIONAL POSTURE [MARCH 2026]:**
-> **Phase:** Initial Production Deployment (Leapfrog 2030)
-> **Engineering Focus:** Telemetry persistence and mesh network routing.
-> **Verification State:** Tier-6 Capability-Based Manager and Tier-4 OS Infrastructure are fully operational across edge and cloud environments for our launch client.
-
----
-
 ## 🎯 Executive Mandate | Mandato Ejecutivo
-**PointSav** architects verified operating environments for critical infrastructure. We eliminate supply chain opacity by asserting **Sovereignty** over the entire stack—from the verified boot boundary to the user interface.
+**English:** PointSav engineers Operating Systems for the Digital First enterprise. We do not provide Software-as-a-Service (SaaS). We build "Trustworthy Systems"—a two-sided architecture that provides secure business administration for humans, and a natively machine-readable, mathematically verified state for digital agents and compliance auditors.
 
-**PointSav** diseña entornos operativos verificados para infraestructuras críticas. Eliminamos la opacidad de la cadena de suministro al afirmar la **Soberanía** sobre toda la pila, desde el límite de arranque verificado hasta la interfaz de usuario.
+**Español:** PointSav diseña Sistemas Operativos para la empresa de prioridad digital. No ofrecemos Software como Servicio (SaaS). Construimos "Sistemas Confiables": una arquitectura de dos caras que proporciona administración empresarial segura para humanos y un estado verificable matemáticamente para agentes digitales y auditores.
 
-## 🛤️ Dual-Track Operations | Operaciones de Doble Vía
-We are advancing two parallel initiatives to deliver true data independence.
-Avanzamos en dos iniciativas paralelas para ofrecer verdadera independencia de datos.
+## 🛤️ The 3-Track Orchestration | La Orquestación de 3 Vías
+We deliver operational trust and structural sovereignty across three synchronized tiers.
+Ofrecemos confianza operativa y soberanía estructural a través de tres niveles sincronizados.
 
-| Initiative | Track / Vía | Status / Estado | Description / Descripción |
+| Track / Vía | Initiative / Iniciativa | Status / Estado | Description / Descripción |
 | :--- | :--- | :--- | :--- |
-| **Private Network** | 1. Infrastructure | 🟢 Operational | Physical and virtual routing layer. / Capa de enrutamiento física y virtual. |
-| **service-content** | 2. Totebox Orchestration | 🟡 Active Engineering | Institutional knowledge synthesis. / Síntesis de conocimiento institucional. |
-| **service-people** | 2. Totebox Orchestration | 🟡 Active Engineering | Secure personnel distillation. / Sistema seguro de personal. |
-| **service-email** | 2. Totebox Orchestration | 🟡 Active Engineering | On-premise Exchange bridge. / Puente local para Exchange. |
+| **1. Infrastructure** | Private Network | 🟢 Operational | Physical and virtual routing layer. / Capa de enrutamiento física y virtual. |
+| **2. Totebox** | Active Services | 🟡 Active Engineering | Isolated data vaults (`service-content`, `service-people`). / Bóvedas de datos aisladas. |
+| **3. Workplace** | Sovereign Desktop | 🟡 Active Engineering | Deterministic file architecture for human authoring. / Arquitectura de archivos determinista. |
 
-## 🗺️ The Sovereign Ecosystem | El Ecosistema Soberano
-### 🏭 The Factory (Engineering)
-* **`pointsav-monorepo`**: The unified source tree governed by our **6-Tier Taxonomy**.
-* **`content-wiki-documentation`**: Architectural Decision Records (ADR), Mesh topology, and hardware forensics.
+## ⚖️ Mathematical Compliance | Cumplimiento Matemático
+**English:** Compliance is not a policy; it is a mathematical primitive. Our `system-*` foundation hardcodes the Six Orchestration Contracts into the microkernel. This guarantees SOC 3 (Operational Trust) and DARP (Structural Sovereignty) across the entire network. Data is stored in files, not proprietary databases, ensuring absolute ownership.
 
-### 🎨 The Interface (UX)
-* **`pointsav-design-system`**: The visual truth. Semantic tokens for our Cinematic Engine.
+**Español:** El cumplimiento no es una política; es una primitiva matemática. Nuestra base `system-*` codifica los Seis Contratos de Orquestación en el micronúcleo. Esto garantiza SOC 3 y DARP en toda la red. Los datos se almacenan en archivos, no en bases de datos propietarias, asegurando la propiedad absoluta.
 
 ---
 *© 2026 PointSav Digital Systems AG.*

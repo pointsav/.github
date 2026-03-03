@@ -25,6 +25,19 @@
 ## 🎯 Executive Mandate | Mandato Ejecutivo
 **PointSav** architects verified operating environments for critical infrastructure. We eliminate supply chain opacity by asserting **Sovereignty** over the entire stack—from the verified boot boundary to the user interface.
 
+**PointSav** diseña entornos operativos verificados para infraestructuras críticas. Eliminamos la opacidad de la cadena de suministro al afirmar la **Soberanía** sobre toda la pila, desde el límite de arranque verificado hasta la interfaz de usuario.
+
+## 🛤️ Dual-Track Operations | Operaciones de Doble Vía
+We are advancing two parallel initiatives to deliver true data independence.
+Avanzamos en dos iniciativas paralelas para ofrecer verdadera independencia de datos.
+
+| Initiative | Track / Vía | Status / Estado | Description / Descripción |
+| :--- | :--- | :--- | :--- |
+| **Private Network** | 1. Infrastructure | 🟢 Operational | Physical and virtual routing layer. / Capa de enrutamiento física y virtual. |
+| **service-content** | 2. Totebox Orchestration | 🟡 Active Engineering | Institutional knowledge synthesis. / Síntesis de conocimiento institucional. |
+| **service-people** | 2. Totebox Orchestration | 🟡 Active Engineering | Secure personnel distillation. / Sistema seguro de personal. |
+| **service-email** | 2. Totebox Orchestration | 🟡 Active Engineering | On-premise Exchange bridge. / Puente local para Exchange. |
+
 ## 🗺️ The Sovereign Ecosystem | El Ecosistema Soberano
 ### 🏭 The Factory (Engineering)
 * **`pointsav-monorepo`**: The unified source tree governed by our **6-Tier Taxonomy**.

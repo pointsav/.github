@@ -34,4 +34,4 @@
 * **`pointsav-design-system`**: The visual truth. Semantic tokens for our Cinematic Engine.
 
 ---
-*© 2026 PointSav Digital Systems AG. Verified Execution Environment.*
+*© 2026 PointSav Digital Systems AG.*

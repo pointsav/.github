@@ -1,31 +1,29 @@
 <div align="center">
 
-# PointSav Digital Systems™
-### *Institutional-Grade Sovereign Computing*
-**Vancouver | New York | Berlin**
+# PointSav Digital Systems | Sistemas Digitales PointSav
+### *The open-source blueprint for corporate digital transformation.*
 
-[ **Technical Docs** ](https://github.com/pointsav/content-wiki-documentation) | [ **System Monorepo** ](https://github.com/pointsav/pointsav-monorepo) | [ **Live Fleet** ](https://github.com/woodfine)
+<br/>
+
+## [ ➔ ENTER THE ENGINEERING MONOREPO ](https://github.com/pointsav/pointsav-monorepo)
 
 </div>
 
 <br/>
 
 > [!WARNING]
-> **DATA SOVEREIGNTY POSTURE**
-> This organization serves exclusively as the public engineering showcase and version-control routing layer. To maintain strict DARP compliance, zero live corporate data, cryptographic keys, or active Totebox Archives are stored on this platform.
+> **SOVEREIGN FRAMEWORK DECLARATION**
+> This organization is the public builder of the Sovereign Data Protocol. It enforces absolute data isolation. It contains zero active proprietary network payloads.
 
-## 📖 The Human Narrative (Business Value)
-**PointSav Digital Systems™** engineers Operating Systems for the Digital First enterprise. We build decentralized, mathematically verified operating environments that guarantee structural sovereignty natively. By bypassing opaque, multi-tenant SaaS databases and utilizing a proprietary `no_std` Rust Capability-Based Manager, we allow Small to Medium Businesses (SMBs) to operate with hyperscaler-grade security and absolute data ownership.
+| Architecture Tier | Component Role | Governance Anchor |
+| :--- | :--- | :--- |
+| 🟢 Active | System Vendor | Sovereign Disclosure Standard |
 
-## ⚖️ Mathematical Compliance
-Compliance is a mathematical primitive, not a policy document. We hardcode the Six Orchestration Contracts (Audit Record, Health Report, Export Manifest, Version Lineage, Pairing Attestation, Cross-Reference Anchor) directly into the kernel to guarantee SOC 3 and DARP structurally.
+## 📖 The Digital Transformation Guide
+We engineer sovereign computer systems. We provide the exact blueprint for enterprise digital transformation. Any company can fork this architecture to replace vulnerable cloud databases with private, secure files. 
 
-## 🛤️ The 3-Track Architecture
-| Track | Target Environment | Status | Capability Mandate |
-| :--- | :--- | :--- | :--- |
-| **1. Infrastructure** | `PointSav Private Network™` | 🟢 **Operational** | Physical and virtual routing layer enforcing the Diode Standard. |
-| **2. Totebox** | `Totebox Orchestration™` | 🟡 **Provisioning** | Isolated data vaults permanently decoupled from physical metal. |
-| **3. Workplace** | `PointSav Workplace OS™` | 🟡 **Provisioning** | Deterministic file architecture replacing web-based subscriptions. |
+We build the tools. You own the infrastructure. This is the path to absolute data sovereignty.
 
 ---
 *© 2026 PointSav Digital Systems™.*
+*Public Architectural Blueprint. Governed by the Sovereign Data Protocol.*

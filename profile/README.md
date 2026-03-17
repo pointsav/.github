@@ -1,13 +1,15 @@
 <div align="center">
 
 # PointSav Digital Systems™
-### *Institutional-Grade Sovereign Computing | Computación Soberana de Grado Institucional*
+### *Institutional-Grade Sovereign Computing*
+### *Computación Soberana de Grado Institucional*
 **Vancouver | New York | Berlin**
 
 <br/>
 
-[![Woodfine Live Fleet](https://img.shields.io/badge/Live_Deployment-Woodfine_Management_Corp.-164679?style=for-the-badge&logo=github&logoColor=white)](https://github.com/woodfine)
-[![System Monorepo](https://img.shields.io/badge/Source_Code-Monorepo-000000?style=for-the-badge)](https://github.com/pointsav/pointsav-monorepo)
+**[ ⚙️ System Monorepo ](https://github.com/pointsav/pointsav-monorepo)** | **[ 📚 System Architecture Wiki ](https://github.com/pointsav/content-wiki-documentation)** | **[ 📐 Linguistic & Design System ](https://github.com/pointsav/pointsav-design-system)**
+
+*Live Fleet Deployment:* **[ 🚢 Woodfine Management Corp. ](https://github.com/woodfine/woodfine-fleet-deployment)**
 
 </div>
 
@@ -16,7 +18,7 @@
 > [!WARNING]
 > **DATA SOVEREIGNTY POSTURE | POSTURA DE SOBERANÍA DE DATOS**
 > **[ EN ]** This organization serves exclusively as the public engineering showcase and version-control routing layer. To maintain strict DARP compliance, zero live corporate data, cryptographic keys, or active Totebox Archives are stored on this platform.
-> **[ ES ]** Esta organización sirve exclusivamente como escaparate público de ingeniería. Para mantener el cumplimiento estricto de DARP, no se almacenan datos corporativos en vivo, claves criptográficas ni Archivos Totebox activos en esta plataforma.
+> **[ ES ]** Esta organización sirve exclusivamente como escaparate público de ingeniería. Para mantener el cumplimiento estricto de DARP, no se almacenan datos corporativos en vivo ni Archivos Totebox activos en esta plataforma.
 
 ### 🎯 Operational Mandate | Mandato Operativo
 **[ EN ]** PointSav engineers Operating Systems for the Digital First enterprise, bypassing legacy Software-as-a-Service (SaaS) vulnerabilities. We architect Trustworthy Systems utilizing a proprietary `no_std` Rust Capability-Based Manager operating at the microkernel level.

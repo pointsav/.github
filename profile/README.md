@@ -1,49 +1,37 @@
 <div align="center">
 
-# PointSav Digital Systems
-### *The open-source blueprint for corporate digital transformation.*
-### *El plano arquitectónico de código abierto para la transformación digital corporativa.*
+# PointSav Digital Systems™
+### *Institutional-Grade Sovereign Computing | Computación Soberana de Grado Institucional*
+**Vancouver | New York | Berlin**
 
 <br/>
 
-**[ ➔ Engineering Monorepo ](https://github.com/pointsav/pointsav-monorepo)**<br/>
-**[ ➔ System Architecture Wiki ](https://github.com/pointsav/content-wiki-documentation)**<br/>
-**[ ➔ Linguistic & Design System ](https://github.com/pointsav/pointsav-design-system)**
+[![Woodfine Live Fleet](https://img.shields.io/badge/Live_Deployment-Woodfine_Management_Corp.-164679?style=for-the-badge&logo=github&logoColor=white)](https://github.com/woodfine)
+[![System Monorepo](https://img.shields.io/badge/Source_Code-Monorepo-000000?style=for-the-badge)](https://github.com/pointsav/pointsav-monorepo)
 
 </div>
 
 <br/>
 
 > [!WARNING]
-> **SOVEREIGN FRAMEWORK DECLARATION**
-> This organization is the public builder of the Sovereign Data Protocol. It enforces absolute data isolation. It contains zero active proprietary network payloads.
->
-> *Esta organización es el constructor público del Sovereign Data Protocol. Impone un aislamiento absoluto de datos. Contiene cero cargas de red propietarias activas.*
+> **DATA SOVEREIGNTY POSTURE | POSTURA DE SOBERANÍA DE DATOS**
+> **[ EN ]** This organization serves exclusively as the public engineering showcase and version-control routing layer. To maintain strict DARP compliance, zero live corporate data, cryptographic keys, or active Totebox Archives are stored on this platform.
+> **[ ES ]** Esta organización sirve exclusivamente como escaparate público de ingeniería. Para mantener el cumplimiento estricto de DARP, no se almacenan datos corporativos en vivo, claves criptográficas ni Archivos Totebox activos en esta plataforma.
 
-| Architecture Tier | Component Role | Governance Anchor |
-| :--- | :--- | :--- |
-| 🟢 Active | System Vendor | Sovereign Disclosure Standard |
+### 🎯 Operational Mandate | Mandato Operativo
+**[ EN ]** PointSav engineers Operating Systems for the Digital First enterprise, bypassing legacy Software-as-a-Service (SaaS) vulnerabilities. We architect Trustworthy Systems utilizing a proprietary `no_std` Rust Capability-Based Manager operating at the microkernel level.
+**[ ES ]** PointSav diseña Sistemas Operativos para la empresa de prioridad digital, evitando vulnerabilidades del SaaS tradicional. Arquitectamos Sistemas Confiables utilizando un Gestor de Capacidades propietario en Rust a nivel de micronúcleo.
 
----
+### ⚖️ Mathematical Compliance | Cumplimiento Matemático
+**[ EN ]** Compliance is a mathematical primitive. We hardcode the Six Orchestration Contracts directly into the kernel to guarantee SOC 3 and DARP structurally.
+**[ ES ]** El cumplimiento es una primitiva matemática. Codificamos los Seis Contratos de Orquestación directamente en el núcleo para garantizar SOC 3 y DARP estructuralmente.
 
-## I. THE SYSTEM VENDOR
-
-We engineer sovereign computer systems. We provide the exact blueprint for enterprise digital transformation. Any company can fork this architecture to replace vulnerable cloud databases with private, secure files. We build the tools. You own the infrastructure. This is the path to absolute data sovereignty.
-
-*Diseñamos sistemas informáticos soberanos. Proporcionamos el plano exacto para la transformación digital empresarial. Cualquier empresa puede bifurcar esta arquitectura para reemplazar las bases de datos vulnerables en la nube con archivos privados y seguros. Nosotros construimos las herramientas. Usted es dueño de la infraestructura. Este es el camino hacia la soberanía de datos absoluta.*
-
----
-
-## II. CORE ARCHITECTURE LEDGER
-
-Below is the active inventory of PointSav's foundational repositories, structured for immediate deployment and auditing.
-
-| Repository | Operational Function | Status |
-| :--- | :--- | :--- |
-| `pointsav-monorepo` | Core engineering logic, mathematical locks, and system daemons. | 🟢 Active |
-| `content-wiki-documentation` | Institutional technical documentation and architectural decisions. | 🟢 Active |
-| `pointsav-design-system` | The single source of truth for linguistic protocols and optical physics. | 🟢 Active |
+### 🛤️ The 3-Track Architecture
+| Track | Target Environment | Status | Capability Mandate |
+| :--- | :--- | :--- | :--- |
+| **1. Infrastructure** | `PointSav Private Network™` | 🟢 `Operational` | Physical and virtual routing layer enforcing the Diode Standard. |
+| **2. Totebox** | `Totebox Orchestration™` | 🟡 `Provisioning` | Isolated data vaults permanently decoupled from physical metal. |
+| **3. Workplace** | `PointSav Workplace OS™` | 🟡 `Provisioning` | Deterministic file architecture replacing web-based subscriptions. |
 
 ---
-*© 2026 PointSav Digital Systems™.*
-*Public Architectural Blueprint. Governed by the Sovereign Data Protocol.*
+*© 2026 PointSav Digital Systems™*

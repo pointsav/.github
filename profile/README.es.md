@@ -4,7 +4,7 @@
 ### *Infraestructura Digital Independiente para Capital Institucional*
 **Vancouver | New York | Berlin**
 
-[ **System Monorepo** ](https://github.com/pointsav/pointsav-monorepo) | [ **Technical Library** ](https://github.com/pointsav/content-wiki-documentation) | [ **Design System** ](https://github.com/pointsav/pointsav-design-system)
+[ **System Monorepo** ](https://github.com/pointsav/pointsav-monorepo) | [ **Documentation Wiki** ](https://github.com/pointsav/content-wiki-documentation) | [ **Design System** ](https://github.com/pointsav/pointsav-design-system)
 
 *Despliegue Operativo:* [ **Woodfine Management Corp.** ](https://github.com/woodfine)
 

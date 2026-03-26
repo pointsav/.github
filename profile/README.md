@@ -1,39 +1,34 @@
 <div align="center">
 
 # PointSav Digital Systems™
-### *The open-source blueprint for corporate digital transformation.*
+### *Institutional-Grade Sovereign Computing | Computación Soberana de Grado Institucional*
 **Vancouver | New York | Berlin**
 
-[ **System Monorepo** ](https://github.com/pointsav/pointsav-monorepo) | [ **Documentation Wiki** ](https://github.com/pointsav/content-wiki-documentation) | [ **Design System** ](https://github.com/pointsav/pointsav-design-system)
-
-*Operational Deployment:* [ **Woodfine Management Corp.** ](https://github.com/woodfine)
-
-[ 🇪🇸 Leer este documento en Español ](./README.es.md)
+[ **Technical Docs** ](https://github.com/pointsav/content-wiki-documentation) | [ **System Monorepo** ](https://github.com/pointsav/pointsav-monorepo) | [ **Live Fleet** ](https://github.com/woodfine)
 
 </div>
 
----
+<br/>
 
 > [!WARNING]
-> **DATA SOVEREIGNTY POSTURE**
-> This organization serves exclusively as our public engineering showcase and version-control routing layer. To maintain absolute compliance with the Digital Asset Resolution Package (DARP), zero live corporate data, cryptographic keys, or active data vaults are stored within this domain.
+> **DATA SOVEREIGNTY POSTURE | POSTURA DE SOBERANÍA DE DATOS**
+> **[ EN ]** This organization serves exclusively as the public engineering showcase. To maintain strict DARP compliance, zero live corporate data, cryptographic keys, or active Totebox Archives are stored on this platform.
+> **[ ES ]** Esta organización sirve exclusivamente como escaparate público de ingeniería. Para mantener el cumplimiento estricto de DARP, no se almacenan datos corporativos en vivo en esta plataforma.
 
-### 🎯 The Sovereign Mandate
-PointSav Digital Systems engineers independent operating infrastructure for the modern enterprise. In an era of increasing cyber risk and regulatory scrutiny, relying on shared SaaS databases is a structural liability. 
+### 🎯 Operational Mandate | Mandato Operativo
+**[ EN ]** PointSav engineers Operating Systems for the Digital First enterprise, bypassing legacy Software-as-a-Service (SaaS) vulnerabilities. We architect Trustworthy Systems utilizing a proprietary `no_std` Rust Capability-Based Manager operating at the microkernel level.
+**[ ES ]** PointSav diseña Sistemas Operativos para la empresa de prioridad digital, evitando vulnerabilidades del SaaS tradicional. Arquitectamos Sistemas Confiables utilizando un Gestor de Capacidades propietario en Rust.
 
-We build decentralized, privately-owned networks that allow any organization—from nimble sovereign teams to multi-national corporate ledgers—to hold their operational data as secure, physical assets. By deploying native Unikernel architecture atop formally verified microkernels (seL4), we structurally bypass the vulnerabilities inherent in commercial hyperscaler infrastructure.
+### ⚖️ Mathematical Compliance | Cumplimiento Matemático
+**[ EN ]** Compliance is a mathematical primitive. We hardcode the Six Orchestration Contracts directly into the kernel to guarantee SOC 3 and DARP structurally. 
+**[ ES ]** El cumplimiento es una primitiva matemática. Codificamos los Seis Contratos de Orquestación directamente en el núcleo para garantizar SOC 3 y DARP estructuralmente.
 
-### ⚖️ Verifiable Data Ownership
-Compliance must be an automated mathematical reality, not a manual policy. Our architecture natively enforces strict data segregation, guaranteeing SOC 3 (Processing Integrity) and DARP compliance by design. We eliminate vendor lock-in, ensuring enterprises maintain absolute, unencumbered custodial control over their digital history.
-
-### 🛤️ Global Fleet Status (3-Track Architecture)
-The overarching operational posture of the Sovereign Computing framework.
-
-| Infrastructure Track | Target Environment | Operational Status | Strategic Value |
+### 🛤️ The 3-Track Architecture
+| Track | Target Environment | Status | Capability Mandate |
 | :--- | :--- | :--- | :--- |
-| **1. The Private Network** | PointSav Private Network™ | 🟢 `Operational` | Connects distributed offices and cloud environments off the public internet. |
-| **2. Totebox Archives™** | Totebox Orchestration™ | 🟡 `Provisioning` | Permanently secures operational knowledge in isolated, self-healing data vaults. |
-| **3. Sovereign Desktop** | PointSav Workplace OS™ | 🟡 `Provisioning` | Replaces rented web applications with owned, deterministic file generation. |
+| **1. Infrastructure** | `PointSav Private Network™` | 🟢 `Operational` | Physical and virtual routing layer enforcing the Diode Standard. |
+| **2. Totebox** | `Totebox Orchestration™` | 🟡 `Provisioning` | Isolated data vaults permanently decoupled from physical metal. |
+| **3. Workplace** | `os-console` (Command Ledger) | 🟡 `Provisioning` | Unified terminal utilizing Machine-Based Authorization (MBA). |
 
 ---
 *© 2026 PointSav Digital Systems™*

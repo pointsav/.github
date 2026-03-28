@@ -25,7 +25,7 @@
 </details>
 
 ### 🎯 Operational Mandate | Mandato Operativo
-**[ EN ]** PointSav engineers Operating Systems for the Digital First enterprise, bypassing legacy Software-as-a-Service (SaaS) vulnerabilities. We architect Trustworthy Systems utilizing a proprietary no_std Rust Capability-Based Manager operating at the microkernel level.
+**[ EN ]** PointSav engineers Operating Systems for the Digital First enterprise, bypassing legacy Software-as-a-Service (SaaS) vulnerabilities. We architect Trustworthy Systems utilizing a proprietary no_std Rust Capability-Based Manager operating at the microkernel level. We champion the Derivative Architecture: separating Base Assets from SLM-synthesized Taxonomy (First Derivative).
 **[ ES ]** PointSav diseña Sistemas Operativos para la empresa de prioridad digital, evitando vulnerabilidades del SaaS tradicional. Arquitectamos Sistemas Confiables utilizando un Gestor de Capacidades propietario en Rust a nivel de micronúcleo.
 
 ### ⚖️ Mathematical Compliance | Cumplimiento Matemático

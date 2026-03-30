@@ -11,22 +11,24 @@
 <br/>
 
 > [!WARNING]
-> **DATA SOVEREIGNTY POSTURE | POSTURA DE SOBERANÍA DE DATOS**
-> **[ EN ]** This organization serves exclusively as our public engineering showcase. To maintain absolute data sovereignty, zero live corporate data, investor ledgers, or active data vaults are stored on this platform.
-> **[ ES ]** Esta organización sirve exclusivamente como nuestro escaparate público de ingeniería. Para mantener la soberanía absoluta de los datos, no se almacenan datos corporativos en vivo ni libros de inversores en esta plataforma.
+> **DATA CUSTODY POSTURE | POSTURA DE CUSTODIA DE DATOS**
+> **[ EN ]** This organization serves exclusively as our public engineering showcase. To maintain absolute data custody and compliance, zero live corporate data, investor ledgers, or active data vaults are stored on this platform.
+> **[ ES ]** Esta organización sirve exclusivamente como nuestro escaparate público de ingeniería. Para mantener una custodia y cumplimiento absolutos de los datos, no se almacenan datos corporativos en vivo ni libros de inversores en esta plataforma.
 
 ### 🎯 The Institutional Mandate | El Mandato Institucional
-**[ EN ]** PointSav Digital Systems engineers independent operating infrastructure for the post-document enterprise. We eliminate Analog File Liabilities (e.g., proprietary Word and PDF formats) by replacing them entirely with **Machine-Readable Primitives** (`.yaml`, `.md`, `.json`). By deploying native Unikernel architecture atop formally verified microkernels (seL4), we structurally bypass the vulnerabilities inherent in commercial hyperscaler infrastructure.
+**[ EN ]** PointSav Digital Systems engineers independent operating infrastructure for the modern enterprise. In an era of increasing cyber risk and regulatory scrutiny, relying on shared Software-as-a-Service (SaaS) databases is a structural liability. We build decentralized, privately-owned networks that allow enterprises to hold their operational data as secure, physical assets.
+**[ ES ]** PointSav Digital Systems diseña infraestructura operativa independiente para la empresa moderna. En una era de creciente riesgo cibernético, depender de bases de datos compartidas (SaaS) es una responsabilidad estructural. Construimos redes descentralizadas que permiten a las empresas mantener sus datos como activos físicos seguros.
 
-### 👁️ State Projection vs. Analog Editing
-**[ EN ]** We do not build "document editors." Our interfaces utilize **State Projection**: they act as secure rendering agents that project underlying mathematical data into human-readable visual interfaces. When a user interacts with the system, they are directly altering the cyberphysical state of the enterprise, not painting pixels on a simulated piece of paper.
+### ⚖️ Verifiable Data Ownership | Propiedad de Datos Verificable
+**[ EN ]** Compliance should be an automated reality, not a manual policy. Our architecture natively enforces strict data segregation, guaranteeing SOC 3 (Processing Integrity) and DARP (Digital Asset Resolution) compliance by design. We eliminate vendor lock-in, ensuring you always maintain absolute custodial control of your digital history.
+**[ ES ]** El cumplimiento debe ser una realidad automatizada. Nuestra arquitectura impone una segregación estricta de datos, garantizando el cumplimiento de SOC 3 y DARP por diseño. Eliminamos la dependencia del proveedor, asegurando un control de custodia absoluto.
 
 ### 🛤️ The Core Architecture
 | Infrastructure Track | Operational Function | Strategic Value |
 | :--- | :--- | :--- |
 | **1. The Private Network** | Physical and virtual routing mesh. | Connects distributed offices and cloud environments off the public internet. |
-| **2. Totebox Archives™** | Isolated, self-healing data vaults. | Secures 3D Cryptographic Tokens. Powered by local **Semantic ALUs** (Micro-AI) for deterministic data routing. |
-| **3. Sovereign Desktop** | State Projection. | Replaces rented web applications with owned, machine-readable desktop environments. |
+| **2. Data Ledgers & Gateways** | Isolated, verifiable data vaults. | Permanently secures corporate knowledge and communications in machine-readable files. |
+| **3. Operator Terminals** | Deterministic interface gateways. | Replaces rented web applications with owned, secure desktop tools. |
 
 ---
 *© 2026 PointSav Digital Systems™*

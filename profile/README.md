@@ -17,15 +17,15 @@
 
 ## 1. CORPORATE ENTITY RELATIONSHIPS
 
-**[ EN ]** PointSav Digital Systems operates as the exclusive system vendor and engineering logic architect for Woodfine Management Corp. To maintain open-source integrity and structural compliance, 10% equity and ethical oversight of the architecture are held by the Sovereign Data Foundation. 
+**[ EN ]** PointSav Digital Systems serves as the exclusive engineering vendor and system architect for Woodfine Management Corp. To ensure open-source integrity and structural compliance, ethical oversight of the architecture is maintained by the Sovereign Data Foundation.
 
-> **[ ES ]** *PointSav Digital Systems opera como el proveedor exclusivo de sistemas y arquitecto de lógica de ingeniería para Woodfine Management Corp. Para mantener la integridad del código abierto y el cumplimiento estructural, la Sovereign Data Foundation posee el 10% del capital social y la supervisión ética de la arquitectura.*
+> **[ ES ]** *PointSav Digital Systems actúa como el proveedor de ingeniería y arquitecto de sistemas exclusivo para Woodfine Management Corp. Para garantizar la integridad del código abierto y el cumplimiento estructural, la Sovereign Data Foundation mantiene la supervisión ética de la arquitectura.*
 
 ## 2. DEVELOPMENT OVERVIEW
 
-**[ EN ]** PointSav provides the Totebox Orchestration environment. This cyberphysical infrastructure permanently separates physical computer hardware from isolated data vaults (Totebox Archives). This Sovereign Airgap guarantees that institutional clients maintain complete cryptographic custody of their administrative ledgers, eliminating reliance on multi-tenant cloud storage.
+**[ EN ]** PointSav provides the Totebox Orchestration environment. This cyberphysical infrastructure enforces a Sovereign Airgap, permanently separating physical computer hardware from isolated data vaults. This architecture ensures that institutional clients maintain complete cryptographic custody of their administrative ledgers, eliminating reliance on multi-tenant cloud platforms.
 
-> **[ ES ]** *PointSav proporciona el entorno de Orquestación Totebox. Esta infraestructura ciberfísica separa permanentemente el hardware informático físico de las bóvedas de datos aisladas (Archivos Totebox). Este Sovereign Airgap garantiza que los clientes institucionales mantengan la custodia criptográfica completa de sus libros administrativos, eliminando la dependencia del almacenamiento en la nube multiusuario.*
+> **[ ES ]** *PointSav proporciona el entorno de Orquestación Totebox. Esta infraestructura ciberfísica impone un Sovereign Airgap, separando permanentemente el hardware informático físico de las bóvedas de datos aisladas. Esta arquitectura asegura que los clientes institucionales mantengan la custodia criptográfica completa de sus libros administrativos, eliminando la dependencia de las plataformas en la nube multiusuario.*
 
 ---
 

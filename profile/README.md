@@ -1,35 +1,30 @@
 <div align="center">
 
-# 👨‍💻 SYSTEM ADMINISTRATOR
-### CYBERPHYSICAL ARCHITECTURE & ENGINEERING COMMAND
-*PointSav Digital Systems*
+# PointSav Digital Systems
+### *The open-source blueprint for corporate digital transformation.*
 
 <br/>
 
-**[ ➔ System Engineering Monorepo ](https://github.com/pointsav/pointsav-monorepo)**<br/>
-**[ ➔ Technical Documentation Wiki ](https://github.com/pointsav/content-wiki-documentation)**<br/>
-**[ ➔ PointSav Organization ](https://github.com/pointsav)**
+**[ ➔ Engineering Monorepo ](https://github.com/pointsav/pointsav-monorepo)**<br/>
+**[ ➔ System Architecture Wiki ](https://github.com/pointsav/content-wiki-documentation)**
 
 </div>
 
 <br/>
 
 > [!WARNING]
-> **VERIFIED ENGINEERING TERMINAL**
-> This profile operates as the Root Administrator for the Totebox Orchestration architecture.
+> **SOVEREIGN FRAMEWORK DECLARATION**
+> This organization is the public builder of the Sovereign Data Protocol. It enforces absolute data isolation. It contains zero active proprietary network payloads.
 
----
-
-## I. OPERATIONAL MANDATE
-
-Operating as the root engineering terminal for **PointSav Digital Systems**, this profile governs the cyberphysical infrastructure deployed across institutional client fleets. The engineering mandate enforces an absolute Sovereign Airgap, permanently isolating physical bare-metal hardware from institutional data ledgers.
-
----
-
-## II. VENDOR DEPLOYMENTS
-
-| System Repository | Structural Mandate | Status |
+| Architecture Tier | Component Role | Governance Anchor |
 | :--- | :--- | :--- |
-| **[Monorepo](https://github.com/pointsav/pointsav-monorepo)** | Zero-Trust architecture and Deterministic Parsers. | 🟢 Active |
-| **[Design System](https://github.com/pointsav/pointsav-design-system)** | Institutional Brutalism and linguistic protocols. | 🟢 Active |
-| **[Documentation Wiki](https://github.com/pointsav/content-wiki-documentation)** | The definitive index of Architecture Decision Records. | 🟢 Active |
+| 🟢 Active | System Vendor | Sovereign Disclosure Standard |
+
+## 📖 The Digital Transformation Guide
+We engineer sovereign computer systems. We provide the exact blueprint for enterprise digital transformation. Any company can fork this architecture to replace vulnerable cloud databases with private, secure files. 
+
+We build the tools. You own the infrastructure. This is the path to absolute data sovereignty.
+
+---
+*© 2026 PointSav Digital Systems™.*
+*Public Architectural Blueprint. Governed by the Sovereign Data Protocol.*
